@@ -1,0 +1,6 @@
+/home/lahev/ksp/ksp/36-2/hra/hra/bin/Debug/hra.exe
+/home/lahev/ksp/ksp/36-2/hra/hra/bin/Debug/hra.pdb
+/home/lahev/ksp/ksp/36-2/hra/hra/obj/Debug/hra.csproj.AssemblyReference.cache
+/home/lahev/ksp/ksp/36-2/hra/hra/obj/Debug/hra.csproj.CoreCompileInputs.cache
+/home/lahev/ksp/ksp/36-2/hra/hra/obj/Debug/hra.exe
+/home/lahev/ksp/ksp/36-2/hra/hra/obj/Debug/hra.pdb
