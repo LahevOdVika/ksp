@@ -1,0 +1,14 @@
+C:\Users\Michal\OneDrive\Dokumenty\ksp\ksp_z_34_3_1\34-Z3\bin\Debug\netcoreapp3.1\34-Z3.exe
+C:\Users\Michal\OneDrive\Dokumenty\ksp\ksp_z_34_3_1\34-Z3\bin\Debug\netcoreapp3.1\34-Z3.deps.json
+C:\Users\Michal\OneDrive\Dokumenty\ksp\ksp_z_34_3_1\34-Z3\bin\Debug\netcoreapp3.1\34-Z3.runtimeconfig.json
+C:\Users\Michal\OneDrive\Dokumenty\ksp\ksp_z_34_3_1\34-Z3\bin\Debug\netcoreapp3.1\34-Z3.runtimeconfig.dev.json
+C:\Users\Michal\OneDrive\Dokumenty\ksp\ksp_z_34_3_1\34-Z3\bin\Debug\netcoreapp3.1\34-Z3.dll
+C:\Users\Michal\OneDrive\Dokumenty\ksp\ksp_z_34_3_1\34-Z3\bin\Debug\netcoreapp3.1\34-Z3.pdb
+C:\Users\Michal\OneDrive\Dokumenty\ksp\ksp_z_34_3_1\34-Z3\obj\Debug\netcoreapp3.1\34-Z3.csproj.AssemblyReference.cache
+C:\Users\Michal\OneDrive\Dokumenty\ksp\ksp_z_34_3_1\34-Z3\obj\Debug\netcoreapp3.1\34-Z3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michal\OneDrive\Dokumenty\ksp\ksp_z_34_3_1\34-Z3\obj\Debug\netcoreapp3.1\34-Z3.AssemblyInfoInputs.cache
+C:\Users\Michal\OneDrive\Dokumenty\ksp\ksp_z_34_3_1\34-Z3\obj\Debug\netcoreapp3.1\34-Z3.AssemblyInfo.cs
+C:\Users\Michal\OneDrive\Dokumenty\ksp\ksp_z_34_3_1\34-Z3\obj\Debug\netcoreapp3.1\34-Z3.csproj.CoreCompileInputs.cache
+C:\Users\Michal\OneDrive\Dokumenty\ksp\ksp_z_34_3_1\34-Z3\obj\Debug\netcoreapp3.1\34-Z3.dll
+C:\Users\Michal\OneDrive\Dokumenty\ksp\ksp_z_34_3_1\34-Z3\obj\Debug\netcoreapp3.1\34-Z3.pdb
+C:\Users\Michal\OneDrive\Dokumenty\ksp\ksp_z_34_3_1\34-Z3\obj\Debug\netcoreapp3.1\34-Z3.genruntimeconfig.cache

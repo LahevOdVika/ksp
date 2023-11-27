@@ -1,0 +1,14 @@
+C:\Users\Michal\OneDrive\Dokumenty\ksp\34_Z3_2_Teckovy_displej\bin\Debug\netcoreapp3.1\34_Z3_2_Teckovy_displej.exe
+C:\Users\Michal\OneDrive\Dokumenty\ksp\34_Z3_2_Teckovy_displej\bin\Debug\netcoreapp3.1\34_Z3_2_Teckovy_displej.deps.json
+C:\Users\Michal\OneDrive\Dokumenty\ksp\34_Z3_2_Teckovy_displej\bin\Debug\netcoreapp3.1\34_Z3_2_Teckovy_displej.runtimeconfig.json
+C:\Users\Michal\OneDrive\Dokumenty\ksp\34_Z3_2_Teckovy_displej\bin\Debug\netcoreapp3.1\34_Z3_2_Teckovy_displej.runtimeconfig.dev.json
+C:\Users\Michal\OneDrive\Dokumenty\ksp\34_Z3_2_Teckovy_displej\bin\Debug\netcoreapp3.1\34_Z3_2_Teckovy_displej.dll
+C:\Users\Michal\OneDrive\Dokumenty\ksp\34_Z3_2_Teckovy_displej\bin\Debug\netcoreapp3.1\34_Z3_2_Teckovy_displej.pdb
+C:\Users\Michal\OneDrive\Dokumenty\ksp\34_Z3_2_Teckovy_displej\obj\Debug\netcoreapp3.1\34_Z3_2_Teckovy_displej.csproj.AssemblyReference.cache
+C:\Users\Michal\OneDrive\Dokumenty\ksp\34_Z3_2_Teckovy_displej\obj\Debug\netcoreapp3.1\34_Z3_2_Teckovy_displej.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michal\OneDrive\Dokumenty\ksp\34_Z3_2_Teckovy_displej\obj\Debug\netcoreapp3.1\34_Z3_2_Teckovy_displej.AssemblyInfoInputs.cache
+C:\Users\Michal\OneDrive\Dokumenty\ksp\34_Z3_2_Teckovy_displej\obj\Debug\netcoreapp3.1\34_Z3_2_Teckovy_displej.AssemblyInfo.cs
+C:\Users\Michal\OneDrive\Dokumenty\ksp\34_Z3_2_Teckovy_displej\obj\Debug\netcoreapp3.1\34_Z3_2_Teckovy_displej.csproj.CoreCompileInputs.cache
+C:\Users\Michal\OneDrive\Dokumenty\ksp\34_Z3_2_Teckovy_displej\obj\Debug\netcoreapp3.1\34_Z3_2_Teckovy_displej.dll
+C:\Users\Michal\OneDrive\Dokumenty\ksp\34_Z3_2_Teckovy_displej\obj\Debug\netcoreapp3.1\34_Z3_2_Teckovy_displej.pdb
+C:\Users\Michal\OneDrive\Dokumenty\ksp\34_Z3_2_Teckovy_displej\obj\Debug\netcoreapp3.1\34_Z3_2_Teckovy_displej.genruntimeconfig.cache

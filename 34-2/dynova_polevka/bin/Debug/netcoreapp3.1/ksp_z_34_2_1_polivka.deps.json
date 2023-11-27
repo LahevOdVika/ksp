@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ksp_z_34_2_1_polivka/1.0.0": {
+        "runtime": {
+          "ksp_z_34_2_1_polivka.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ksp_z_34_2_1_polivka/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

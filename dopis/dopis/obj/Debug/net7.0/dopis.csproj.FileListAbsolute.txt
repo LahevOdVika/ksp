@@ -1,0 +1,15 @@
+C:\Users\Lahev\Documents\ksp\dopis\dopis\bin\Debug\net7.0\dopis.exe
+C:\Users\Lahev\Documents\ksp\dopis\dopis\bin\Debug\net7.0\dopis.deps.json
+C:\Users\Lahev\Documents\ksp\dopis\dopis\bin\Debug\net7.0\dopis.runtimeconfig.json
+C:\Users\Lahev\Documents\ksp\dopis\dopis\bin\Debug\net7.0\dopis.dll
+C:\Users\Lahev\Documents\ksp\dopis\dopis\bin\Debug\net7.0\dopis.pdb
+C:\Users\Lahev\Documents\ksp\dopis\dopis\obj\Debug\net7.0\dopis.csproj.AssemblyReference.cache
+C:\Users\Lahev\Documents\ksp\dopis\dopis\obj\Debug\net7.0\dopis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lahev\Documents\ksp\dopis\dopis\obj\Debug\net7.0\dopis.AssemblyInfoInputs.cache
+C:\Users\Lahev\Documents\ksp\dopis\dopis\obj\Debug\net7.0\dopis.AssemblyInfo.cs
+C:\Users\Lahev\Documents\ksp\dopis\dopis\obj\Debug\net7.0\dopis.csproj.CoreCompileInputs.cache
+C:\Users\Lahev\Documents\ksp\dopis\dopis\obj\Debug\net7.0\dopis.dll
+C:\Users\Lahev\Documents\ksp\dopis\dopis\obj\Debug\net7.0\refint\dopis.dll
+C:\Users\Lahev\Documents\ksp\dopis\dopis\obj\Debug\net7.0\dopis.pdb
+C:\Users\Lahev\Documents\ksp\dopis\dopis\obj\Debug\net7.0\dopis.genruntimeconfig.cache
+C:\Users\Lahev\Documents\ksp\dopis\dopis\obj\Debug\net7.0\ref\dopis.dll

@@ -1,0 +1,15 @@
+C:\Users\Lahev\Documents\ksp\buldozer_s_krabici\buldozer_s_krabici\bin\Debug\net7.0\buldozer_s_krabici.exe
+C:\Users\Lahev\Documents\ksp\buldozer_s_krabici\buldozer_s_krabici\bin\Debug\net7.0\buldozer_s_krabici.deps.json
+C:\Users\Lahev\Documents\ksp\buldozer_s_krabici\buldozer_s_krabici\bin\Debug\net7.0\buldozer_s_krabici.runtimeconfig.json
+C:\Users\Lahev\Documents\ksp\buldozer_s_krabici\buldozer_s_krabici\bin\Debug\net7.0\buldozer_s_krabici.dll
+C:\Users\Lahev\Documents\ksp\buldozer_s_krabici\buldozer_s_krabici\bin\Debug\net7.0\buldozer_s_krabici.pdb
+C:\Users\Lahev\Documents\ksp\buldozer_s_krabici\buldozer_s_krabici\obj\Debug\net7.0\buldozer_s_krabici.csproj.AssemblyReference.cache
+C:\Users\Lahev\Documents\ksp\buldozer_s_krabici\buldozer_s_krabici\obj\Debug\net7.0\buldozer_s_krabici.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lahev\Documents\ksp\buldozer_s_krabici\buldozer_s_krabici\obj\Debug\net7.0\buldozer_s_krabici.AssemblyInfoInputs.cache
+C:\Users\Lahev\Documents\ksp\buldozer_s_krabici\buldozer_s_krabici\obj\Debug\net7.0\buldozer_s_krabici.AssemblyInfo.cs
+C:\Users\Lahev\Documents\ksp\buldozer_s_krabici\buldozer_s_krabici\obj\Debug\net7.0\buldozer_s_krabici.csproj.CoreCompileInputs.cache
+C:\Users\Lahev\Documents\ksp\buldozer_s_krabici\buldozer_s_krabici\obj\Debug\net7.0\buldozer_s_krabici.dll
+C:\Users\Lahev\Documents\ksp\buldozer_s_krabici\buldozer_s_krabici\obj\Debug\net7.0\refint\buldozer_s_krabici.dll
+C:\Users\Lahev\Documents\ksp\buldozer_s_krabici\buldozer_s_krabici\obj\Debug\net7.0\buldozer_s_krabici.pdb
+C:\Users\Lahev\Documents\ksp\buldozer_s_krabici\buldozer_s_krabici\obj\Debug\net7.0\buldozer_s_krabici.genruntimeconfig.cache
+C:\Users\Lahev\Documents\ksp\buldozer_s_krabici\buldozer_s_krabici\obj\Debug\net7.0\ref\buldozer_s_krabici.dll

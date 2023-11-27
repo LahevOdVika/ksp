@@ -1,0 +1,15 @@
+C:\Users\Lahev\Documents\ksp\kevin_a_magnetky\kevin_a_magnetky\bin\Debug\net7.0\kevin_a_magnetky.exe
+C:\Users\Lahev\Documents\ksp\kevin_a_magnetky\kevin_a_magnetky\bin\Debug\net7.0\kevin_a_magnetky.deps.json
+C:\Users\Lahev\Documents\ksp\kevin_a_magnetky\kevin_a_magnetky\bin\Debug\net7.0\kevin_a_magnetky.runtimeconfig.json
+C:\Users\Lahev\Documents\ksp\kevin_a_magnetky\kevin_a_magnetky\bin\Debug\net7.0\kevin_a_magnetky.dll
+C:\Users\Lahev\Documents\ksp\kevin_a_magnetky\kevin_a_magnetky\bin\Debug\net7.0\kevin_a_magnetky.pdb
+C:\Users\Lahev\Documents\ksp\kevin_a_magnetky\kevin_a_magnetky\obj\Debug\net7.0\kevin_a_magnetky.csproj.AssemblyReference.cache
+C:\Users\Lahev\Documents\ksp\kevin_a_magnetky\kevin_a_magnetky\obj\Debug\net7.0\kevin_a_magnetky.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lahev\Documents\ksp\kevin_a_magnetky\kevin_a_magnetky\obj\Debug\net7.0\kevin_a_magnetky.AssemblyInfoInputs.cache
+C:\Users\Lahev\Documents\ksp\kevin_a_magnetky\kevin_a_magnetky\obj\Debug\net7.0\kevin_a_magnetky.AssemblyInfo.cs
+C:\Users\Lahev\Documents\ksp\kevin_a_magnetky\kevin_a_magnetky\obj\Debug\net7.0\kevin_a_magnetky.csproj.CoreCompileInputs.cache
+C:\Users\Lahev\Documents\ksp\kevin_a_magnetky\kevin_a_magnetky\obj\Debug\net7.0\kevin_a_magnetky.dll
+C:\Users\Lahev\Documents\ksp\kevin_a_magnetky\kevin_a_magnetky\obj\Debug\net7.0\refint\kevin_a_magnetky.dll
+C:\Users\Lahev\Documents\ksp\kevin_a_magnetky\kevin_a_magnetky\obj\Debug\net7.0\kevin_a_magnetky.pdb
+C:\Users\Lahev\Documents\ksp\kevin_a_magnetky\kevin_a_magnetky\obj\Debug\net7.0\kevin_a_magnetky.genruntimeconfig.cache
+C:\Users\Lahev\Documents\ksp\kevin_a_magnetky\kevin_a_magnetky\obj\Debug\net7.0\ref\kevin_a_magnetky.dll

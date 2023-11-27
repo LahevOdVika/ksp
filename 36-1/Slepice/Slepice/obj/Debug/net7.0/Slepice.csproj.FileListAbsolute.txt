@@ -1,0 +1,15 @@
+C:\Users\Lahev\Documents\ksp\Slepice\Slepice\bin\Debug\net7.0\Slepice.exe
+C:\Users\Lahev\Documents\ksp\Slepice\Slepice\bin\Debug\net7.0\Slepice.deps.json
+C:\Users\Lahev\Documents\ksp\Slepice\Slepice\bin\Debug\net7.0\Slepice.runtimeconfig.json
+C:\Users\Lahev\Documents\ksp\Slepice\Slepice\bin\Debug\net7.0\Slepice.dll
+C:\Users\Lahev\Documents\ksp\Slepice\Slepice\bin\Debug\net7.0\Slepice.pdb
+C:\Users\Lahev\Documents\ksp\Slepice\Slepice\obj\Debug\net7.0\Slepice.csproj.AssemblyReference.cache
+C:\Users\Lahev\Documents\ksp\Slepice\Slepice\obj\Debug\net7.0\Slepice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lahev\Documents\ksp\Slepice\Slepice\obj\Debug\net7.0\Slepice.AssemblyInfoInputs.cache
+C:\Users\Lahev\Documents\ksp\Slepice\Slepice\obj\Debug\net7.0\Slepice.AssemblyInfo.cs
+C:\Users\Lahev\Documents\ksp\Slepice\Slepice\obj\Debug\net7.0\Slepice.csproj.CoreCompileInputs.cache
+C:\Users\Lahev\Documents\ksp\Slepice\Slepice\obj\Debug\net7.0\Slepice.dll
+C:\Users\Lahev\Documents\ksp\Slepice\Slepice\obj\Debug\net7.0\refint\Slepice.dll
+C:\Users\Lahev\Documents\ksp\Slepice\Slepice\obj\Debug\net7.0\Slepice.pdb
+C:\Users\Lahev\Documents\ksp\Slepice\Slepice\obj\Debug\net7.0\Slepice.genruntimeconfig.cache
+C:\Users\Lahev\Documents\ksp\Slepice\Slepice\obj\Debug\net7.0\ref\Slepice.dll

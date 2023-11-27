@@ -1,0 +1,14 @@
+C:\Users\Michal\Documents\ksp\ksp_z_34_2_1_polivka\bin\Debug\netcoreapp3.1\ksp_z_34_2_1_polivka.exe
+C:\Users\Michal\Documents\ksp\ksp_z_34_2_1_polivka\bin\Debug\netcoreapp3.1\ksp_z_34_2_1_polivka.deps.json
+C:\Users\Michal\Documents\ksp\ksp_z_34_2_1_polivka\bin\Debug\netcoreapp3.1\ksp_z_34_2_1_polivka.runtimeconfig.json
+C:\Users\Michal\Documents\ksp\ksp_z_34_2_1_polivka\bin\Debug\netcoreapp3.1\ksp_z_34_2_1_polivka.runtimeconfig.dev.json
+C:\Users\Michal\Documents\ksp\ksp_z_34_2_1_polivka\bin\Debug\netcoreapp3.1\ksp_z_34_2_1_polivka.dll
+C:\Users\Michal\Documents\ksp\ksp_z_34_2_1_polivka\bin\Debug\netcoreapp3.1\ksp_z_34_2_1_polivka.pdb
+C:\Users\Michal\Documents\ksp\ksp_z_34_2_1_polivka\obj\Debug\netcoreapp3.1\ksp_z_34_2_1_polivka.csproj.AssemblyReference.cache
+C:\Users\Michal\Documents\ksp\ksp_z_34_2_1_polivka\obj\Debug\netcoreapp3.1\ksp_z_34_2_1_polivka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michal\Documents\ksp\ksp_z_34_2_1_polivka\obj\Debug\netcoreapp3.1\ksp_z_34_2_1_polivka.AssemblyInfoInputs.cache
+C:\Users\Michal\Documents\ksp\ksp_z_34_2_1_polivka\obj\Debug\netcoreapp3.1\ksp_z_34_2_1_polivka.AssemblyInfo.cs
+C:\Users\Michal\Documents\ksp\ksp_z_34_2_1_polivka\obj\Debug\netcoreapp3.1\ksp_z_34_2_1_polivka.csproj.CoreCompileInputs.cache
+C:\Users\Michal\Documents\ksp\ksp_z_34_2_1_polivka\obj\Debug\netcoreapp3.1\ksp_z_34_2_1_polivka.dll
+C:\Users\Michal\Documents\ksp\ksp_z_34_2_1_polivka\obj\Debug\netcoreapp3.1\ksp_z_34_2_1_polivka.pdb
+C:\Users\Michal\Documents\ksp\ksp_z_34_2_1_polivka\obj\Debug\netcoreapp3.1\ksp_z_34_2_1_polivka.genruntimeconfig.cache

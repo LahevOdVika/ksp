@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ksp_z_34_2_2_podivna_brigada/1.0.0": {
+        "runtime": {
+          "ksp_z_34_2_2_podivna_brigada.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ksp_z_34_2_2_podivna_brigada/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

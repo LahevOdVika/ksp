@@ -1,0 +1,14 @@
+C:\Users\Michal\Documents\ksp\ksp_z_34_2_3\ksp_z_34_2_3_skladani_krabic\bin\Debug\netcoreapp3.1\ksp_z_34_2_3_skladani_krabic.exe
+C:\Users\Michal\Documents\ksp\ksp_z_34_2_3\ksp_z_34_2_3_skladani_krabic\bin\Debug\netcoreapp3.1\ksp_z_34_2_3_skladani_krabic.deps.json
+C:\Users\Michal\Documents\ksp\ksp_z_34_2_3\ksp_z_34_2_3_skladani_krabic\bin\Debug\netcoreapp3.1\ksp_z_34_2_3_skladani_krabic.runtimeconfig.json
+C:\Users\Michal\Documents\ksp\ksp_z_34_2_3\ksp_z_34_2_3_skladani_krabic\bin\Debug\netcoreapp3.1\ksp_z_34_2_3_skladani_krabic.runtimeconfig.dev.json
+C:\Users\Michal\Documents\ksp\ksp_z_34_2_3\ksp_z_34_2_3_skladani_krabic\bin\Debug\netcoreapp3.1\ksp_z_34_2_3_skladani_krabic.dll
+C:\Users\Michal\Documents\ksp\ksp_z_34_2_3\ksp_z_34_2_3_skladani_krabic\bin\Debug\netcoreapp3.1\ksp_z_34_2_3_skladani_krabic.pdb
+C:\Users\Michal\Documents\ksp\ksp_z_34_2_3\ksp_z_34_2_3_skladani_krabic\obj\Debug\netcoreapp3.1\ksp_z_34_2_3_skladani_krabic.csproj.AssemblyReference.cache
+C:\Users\Michal\Documents\ksp\ksp_z_34_2_3\ksp_z_34_2_3_skladani_krabic\obj\Debug\netcoreapp3.1\ksp_z_34_2_3_skladani_krabic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michal\Documents\ksp\ksp_z_34_2_3\ksp_z_34_2_3_skladani_krabic\obj\Debug\netcoreapp3.1\ksp_z_34_2_3_skladani_krabic.AssemblyInfoInputs.cache
+C:\Users\Michal\Documents\ksp\ksp_z_34_2_3\ksp_z_34_2_3_skladani_krabic\obj\Debug\netcoreapp3.1\ksp_z_34_2_3_skladani_krabic.AssemblyInfo.cs
+C:\Users\Michal\Documents\ksp\ksp_z_34_2_3\ksp_z_34_2_3_skladani_krabic\obj\Debug\netcoreapp3.1\ksp_z_34_2_3_skladani_krabic.csproj.CoreCompileInputs.cache
+C:\Users\Michal\Documents\ksp\ksp_z_34_2_3\ksp_z_34_2_3_skladani_krabic\obj\Debug\netcoreapp3.1\ksp_z_34_2_3_skladani_krabic.dll
+C:\Users\Michal\Documents\ksp\ksp_z_34_2_3\ksp_z_34_2_3_skladani_krabic\obj\Debug\netcoreapp3.1\ksp_z_34_2_3_skladani_krabic.pdb
+C:\Users\Michal\Documents\ksp\ksp_z_34_2_3\ksp_z_34_2_3_skladani_krabic\obj\Debug\netcoreapp3.1\ksp_z_34_2_3_skladani_krabic.genruntimeconfig.cache

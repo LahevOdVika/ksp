@@ -1,0 +1,14 @@
+C:\Users\Michal\Documents\ksp\ksp_z_34_2_2_podivna_brigada\bin\Debug\netcoreapp3.1\ksp_z_34_2_2_podivna_brigada.exe
+C:\Users\Michal\Documents\ksp\ksp_z_34_2_2_podivna_brigada\bin\Debug\netcoreapp3.1\ksp_z_34_2_2_podivna_brigada.deps.json
+C:\Users\Michal\Documents\ksp\ksp_z_34_2_2_podivna_brigada\bin\Debug\netcoreapp3.1\ksp_z_34_2_2_podivna_brigada.runtimeconfig.json
+C:\Users\Michal\Documents\ksp\ksp_z_34_2_2_podivna_brigada\bin\Debug\netcoreapp3.1\ksp_z_34_2_2_podivna_brigada.runtimeconfig.dev.json
+C:\Users\Michal\Documents\ksp\ksp_z_34_2_2_podivna_brigada\bin\Debug\netcoreapp3.1\ksp_z_34_2_2_podivna_brigada.dll
+C:\Users\Michal\Documents\ksp\ksp_z_34_2_2_podivna_brigada\bin\Debug\netcoreapp3.1\ksp_z_34_2_2_podivna_brigada.pdb
+C:\Users\Michal\Documents\ksp\ksp_z_34_2_2_podivna_brigada\obj\Debug\netcoreapp3.1\ksp_z_34_2_2_podivna_brigada.csproj.AssemblyReference.cache
+C:\Users\Michal\Documents\ksp\ksp_z_34_2_2_podivna_brigada\obj\Debug\netcoreapp3.1\ksp_z_34_2_2_podivna_brigada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michal\Documents\ksp\ksp_z_34_2_2_podivna_brigada\obj\Debug\netcoreapp3.1\ksp_z_34_2_2_podivna_brigada.AssemblyInfoInputs.cache
+C:\Users\Michal\Documents\ksp\ksp_z_34_2_2_podivna_brigada\obj\Debug\netcoreapp3.1\ksp_z_34_2_2_podivna_brigada.AssemblyInfo.cs
+C:\Users\Michal\Documents\ksp\ksp_z_34_2_2_podivna_brigada\obj\Debug\netcoreapp3.1\ksp_z_34_2_2_podivna_brigada.csproj.CoreCompileInputs.cache
+C:\Users\Michal\Documents\ksp\ksp_z_34_2_2_podivna_brigada\obj\Debug\netcoreapp3.1\ksp_z_34_2_2_podivna_brigada.dll
+C:\Users\Michal\Documents\ksp\ksp_z_34_2_2_podivna_brigada\obj\Debug\netcoreapp3.1\ksp_z_34_2_2_podivna_brigada.pdb
+C:\Users\Michal\Documents\ksp\ksp_z_34_2_2_podivna_brigada\obj\Debug\netcoreapp3.1\ksp_z_34_2_2_podivna_brigada.genruntimeconfig.cache
