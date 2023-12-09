@@ -1,0 +1,15 @@
+C:\Users\Lahev\Desktop\ksp\36-2\obed_v_tovarne\obed_v_tovarne\bin\Debug\net7.0\obed_v_tovarne.exe
+C:\Users\Lahev\Desktop\ksp\36-2\obed_v_tovarne\obed_v_tovarne\bin\Debug\net7.0\obed_v_tovarne.deps.json
+C:\Users\Lahev\Desktop\ksp\36-2\obed_v_tovarne\obed_v_tovarne\bin\Debug\net7.0\obed_v_tovarne.runtimeconfig.json
+C:\Users\Lahev\Desktop\ksp\36-2\obed_v_tovarne\obed_v_tovarne\bin\Debug\net7.0\obed_v_tovarne.dll
+C:\Users\Lahev\Desktop\ksp\36-2\obed_v_tovarne\obed_v_tovarne\bin\Debug\net7.0\obed_v_tovarne.pdb
+C:\Users\Lahev\Desktop\ksp\36-2\obed_v_tovarne\obed_v_tovarne\obj\Debug\net7.0\obed_v_tovarne.csproj.AssemblyReference.cache
+C:\Users\Lahev\Desktop\ksp\36-2\obed_v_tovarne\obed_v_tovarne\obj\Debug\net7.0\obed_v_tovarne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lahev\Desktop\ksp\36-2\obed_v_tovarne\obed_v_tovarne\obj\Debug\net7.0\obed_v_tovarne.AssemblyInfoInputs.cache
+C:\Users\Lahev\Desktop\ksp\36-2\obed_v_tovarne\obed_v_tovarne\obj\Debug\net7.0\obed_v_tovarne.AssemblyInfo.cs
+C:\Users\Lahev\Desktop\ksp\36-2\obed_v_tovarne\obed_v_tovarne\obj\Debug\net7.0\obed_v_tovarne.csproj.CoreCompileInputs.cache
+C:\Users\Lahev\Desktop\ksp\36-2\obed_v_tovarne\obed_v_tovarne\obj\Debug\net7.0\obed_v_tovarne.dll
+C:\Users\Lahev\Desktop\ksp\36-2\obed_v_tovarne\obed_v_tovarne\obj\Debug\net7.0\refint\obed_v_tovarne.dll
+C:\Users\Lahev\Desktop\ksp\36-2\obed_v_tovarne\obed_v_tovarne\obj\Debug\net7.0\obed_v_tovarne.pdb
+C:\Users\Lahev\Desktop\ksp\36-2\obed_v_tovarne\obed_v_tovarne\obj\Debug\net7.0\obed_v_tovarne.genruntimeconfig.cache
+C:\Users\Lahev\Desktop\ksp\36-2\obed_v_tovarne\obed_v_tovarne\obj\Debug\net7.0\ref\obed_v_tovarne.dll
