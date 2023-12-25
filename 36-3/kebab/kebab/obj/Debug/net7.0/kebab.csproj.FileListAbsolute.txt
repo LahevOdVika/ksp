@@ -1,0 +1,15 @@
+C:\Users\Lahev\Desktop\ksp\36-3\kebab\kebab\bin\Debug\net7.0\kebab.exe
+C:\Users\Lahev\Desktop\ksp\36-3\kebab\kebab\bin\Debug\net7.0\kebab.deps.json
+C:\Users\Lahev\Desktop\ksp\36-3\kebab\kebab\bin\Debug\net7.0\kebab.runtimeconfig.json
+C:\Users\Lahev\Desktop\ksp\36-3\kebab\kebab\bin\Debug\net7.0\kebab.dll
+C:\Users\Lahev\Desktop\ksp\36-3\kebab\kebab\bin\Debug\net7.0\kebab.pdb
+C:\Users\Lahev\Desktop\ksp\36-3\kebab\kebab\obj\Debug\net7.0\kebab.csproj.AssemblyReference.cache
+C:\Users\Lahev\Desktop\ksp\36-3\kebab\kebab\obj\Debug\net7.0\kebab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lahev\Desktop\ksp\36-3\kebab\kebab\obj\Debug\net7.0\kebab.AssemblyInfoInputs.cache
+C:\Users\Lahev\Desktop\ksp\36-3\kebab\kebab\obj\Debug\net7.0\kebab.AssemblyInfo.cs
+C:\Users\Lahev\Desktop\ksp\36-3\kebab\kebab\obj\Debug\net7.0\kebab.csproj.CoreCompileInputs.cache
+C:\Users\Lahev\Desktop\ksp\36-3\kebab\kebab\obj\Debug\net7.0\kebab.dll
+C:\Users\Lahev\Desktop\ksp\36-3\kebab\kebab\obj\Debug\net7.0\refint\kebab.dll
+C:\Users\Lahev\Desktop\ksp\36-3\kebab\kebab\obj\Debug\net7.0\kebab.pdb
+C:\Users\Lahev\Desktop\ksp\36-3\kebab\kebab\obj\Debug\net7.0\kebab.genruntimeconfig.cache
+C:\Users\Lahev\Desktop\ksp\36-3\kebab\kebab\obj\Debug\net7.0\ref\kebab.dll
