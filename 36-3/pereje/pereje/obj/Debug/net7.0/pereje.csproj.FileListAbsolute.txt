@@ -1,0 +1,15 @@
+C:\Users\Lahev\Desktop\ksp\29-1\pereje\pereje\bin\Debug\net7.0\pereje.exe
+C:\Users\Lahev\Desktop\ksp\29-1\pereje\pereje\bin\Debug\net7.0\pereje.deps.json
+C:\Users\Lahev\Desktop\ksp\29-1\pereje\pereje\bin\Debug\net7.0\pereje.runtimeconfig.json
+C:\Users\Lahev\Desktop\ksp\29-1\pereje\pereje\bin\Debug\net7.0\pereje.dll
+C:\Users\Lahev\Desktop\ksp\29-1\pereje\pereje\bin\Debug\net7.0\pereje.pdb
+C:\Users\Lahev\Desktop\ksp\29-1\pereje\pereje\obj\Debug\net7.0\pereje.csproj.AssemblyReference.cache
+C:\Users\Lahev\Desktop\ksp\29-1\pereje\pereje\obj\Debug\net7.0\pereje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lahev\Desktop\ksp\29-1\pereje\pereje\obj\Debug\net7.0\pereje.AssemblyInfoInputs.cache
+C:\Users\Lahev\Desktop\ksp\29-1\pereje\pereje\obj\Debug\net7.0\pereje.AssemblyInfo.cs
+C:\Users\Lahev\Desktop\ksp\29-1\pereje\pereje\obj\Debug\net7.0\pereje.csproj.CoreCompileInputs.cache
+C:\Users\Lahev\Desktop\ksp\29-1\pereje\pereje\obj\Debug\net7.0\pereje.dll
+C:\Users\Lahev\Desktop\ksp\29-1\pereje\pereje\obj\Debug\net7.0\refint\pereje.dll
+C:\Users\Lahev\Desktop\ksp\29-1\pereje\pereje\obj\Debug\net7.0\pereje.pdb
+C:\Users\Lahev\Desktop\ksp\29-1\pereje\pereje\obj\Debug\net7.0\pereje.genruntimeconfig.cache
+C:\Users\Lahev\Desktop\ksp\29-1\pereje\pereje\obj\Debug\net7.0\ref\pereje.dll

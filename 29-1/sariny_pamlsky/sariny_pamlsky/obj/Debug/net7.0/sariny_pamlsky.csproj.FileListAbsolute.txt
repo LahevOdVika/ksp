@@ -1,0 +1,15 @@
+C:\Users\Lahev\Desktop\ksp\29-1\sariny_pamlsky\sariny_pamlsky\bin\Debug\net7.0\sariny_pamlsky.exe
+C:\Users\Lahev\Desktop\ksp\29-1\sariny_pamlsky\sariny_pamlsky\bin\Debug\net7.0\sariny_pamlsky.deps.json
+C:\Users\Lahev\Desktop\ksp\29-1\sariny_pamlsky\sariny_pamlsky\bin\Debug\net7.0\sariny_pamlsky.runtimeconfig.json
+C:\Users\Lahev\Desktop\ksp\29-1\sariny_pamlsky\sariny_pamlsky\bin\Debug\net7.0\sariny_pamlsky.dll
+C:\Users\Lahev\Desktop\ksp\29-1\sariny_pamlsky\sariny_pamlsky\bin\Debug\net7.0\sariny_pamlsky.pdb
+C:\Users\Lahev\Desktop\ksp\29-1\sariny_pamlsky\sariny_pamlsky\obj\Debug\net7.0\sariny_pamlsky.csproj.AssemblyReference.cache
+C:\Users\Lahev\Desktop\ksp\29-1\sariny_pamlsky\sariny_pamlsky\obj\Debug\net7.0\sariny_pamlsky.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lahev\Desktop\ksp\29-1\sariny_pamlsky\sariny_pamlsky\obj\Debug\net7.0\sariny_pamlsky.AssemblyInfoInputs.cache
+C:\Users\Lahev\Desktop\ksp\29-1\sariny_pamlsky\sariny_pamlsky\obj\Debug\net7.0\sariny_pamlsky.AssemblyInfo.cs
+C:\Users\Lahev\Desktop\ksp\29-1\sariny_pamlsky\sariny_pamlsky\obj\Debug\net7.0\sariny_pamlsky.csproj.CoreCompileInputs.cache
+C:\Users\Lahev\Desktop\ksp\29-1\sariny_pamlsky\sariny_pamlsky\obj\Debug\net7.0\sariny_pamlsky.dll
+C:\Users\Lahev\Desktop\ksp\29-1\sariny_pamlsky\sariny_pamlsky\obj\Debug\net7.0\refint\sariny_pamlsky.dll
+C:\Users\Lahev\Desktop\ksp\29-1\sariny_pamlsky\sariny_pamlsky\obj\Debug\net7.0\sariny_pamlsky.pdb
+C:\Users\Lahev\Desktop\ksp\29-1\sariny_pamlsky\sariny_pamlsky\obj\Debug\net7.0\sariny_pamlsky.genruntimeconfig.cache
+C:\Users\Lahev\Desktop\ksp\29-1\sariny_pamlsky\sariny_pamlsky\obj\Debug\net7.0\ref\sariny_pamlsky.dll

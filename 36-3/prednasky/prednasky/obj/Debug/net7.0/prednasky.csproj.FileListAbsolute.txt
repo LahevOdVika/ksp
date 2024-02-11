@@ -1,0 +1,15 @@
+C:\Users\Lahev\Desktop\ksp\36-3\prednasky\prednasky\bin\Debug\net7.0\prednasky.exe
+C:\Users\Lahev\Desktop\ksp\36-3\prednasky\prednasky\bin\Debug\net7.0\prednasky.deps.json
+C:\Users\Lahev\Desktop\ksp\36-3\prednasky\prednasky\bin\Debug\net7.0\prednasky.runtimeconfig.json
+C:\Users\Lahev\Desktop\ksp\36-3\prednasky\prednasky\bin\Debug\net7.0\prednasky.dll
+C:\Users\Lahev\Desktop\ksp\36-3\prednasky\prednasky\bin\Debug\net7.0\prednasky.pdb
+C:\Users\Lahev\Desktop\ksp\36-3\prednasky\prednasky\obj\Debug\net7.0\prednasky.csproj.AssemblyReference.cache
+C:\Users\Lahev\Desktop\ksp\36-3\prednasky\prednasky\obj\Debug\net7.0\prednasky.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lahev\Desktop\ksp\36-3\prednasky\prednasky\obj\Debug\net7.0\prednasky.AssemblyInfoInputs.cache
+C:\Users\Lahev\Desktop\ksp\36-3\prednasky\prednasky\obj\Debug\net7.0\prednasky.AssemblyInfo.cs
+C:\Users\Lahev\Desktop\ksp\36-3\prednasky\prednasky\obj\Debug\net7.0\prednasky.csproj.CoreCompileInputs.cache
+C:\Users\Lahev\Desktop\ksp\36-3\prednasky\prednasky\obj\Debug\net7.0\prednasky.dll
+C:\Users\Lahev\Desktop\ksp\36-3\prednasky\prednasky\obj\Debug\net7.0\refint\prednasky.dll
+C:\Users\Lahev\Desktop\ksp\36-3\prednasky\prednasky\obj\Debug\net7.0\prednasky.pdb
+C:\Users\Lahev\Desktop\ksp\36-3\prednasky\prednasky\obj\Debug\net7.0\prednasky.genruntimeconfig.cache
+C:\Users\Lahev\Desktop\ksp\36-3\prednasky\prednasky\obj\Debug\net7.0\ref\prednasky.dll
