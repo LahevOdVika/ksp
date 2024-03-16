@@ -1,7 +1,0 @@
-Z:\Sankovani\Sankovani\bin\Debug\Sankovani.exe.config
-Z:\Sankovani\Sankovani\bin\Debug\Sankovani.exe
-Z:\Sankovani\Sankovani\bin\Debug\Sankovani.pdb
-Z:\Sankovani\Sankovani\obj\Debug\Sankovani.csprojAssemblyReference.cache
-Z:\Sankovani\Sankovani\obj\Debug\Sankovani.csproj.CoreCompileInputs.cache
-Z:\Sankovani\Sankovani\obj\Debug\Sankovani.exe
-Z:\Sankovani\Sankovani\obj\Debug\Sankovani.pdb

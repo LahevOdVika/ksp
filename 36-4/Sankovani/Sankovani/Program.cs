@@ -1,18 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.IO;
-
-namespace Sankovani
+﻿namespace Sankovani
 {
     class Program
     {
         static void Main(string[] args)
         {
-            StreamReader sr = new StreamReader("Z:/vstup.txt");
-            StreamWriter sw = new StreamWriter("Z:/vystup.txt");
+            StreamReader sr = new StreamReader(Console.OpenStandardInput());
+            StreamWriter sw = new StreamWriter(Console.OpenStandardOutput());
 
             int N = Convert.ToInt32(sr.ReadLine());
 
@@ -24,7 +17,7 @@ namespace Sankovani
 
             for (int i = 0; i < vrcholy.Length-1; i++)
             {
-                if (vrcholy[i] > vrcholy[i+1])
+                if (vrcholy[i] >vrcholy[i+1])
                 {
                     rychlost = vrcholy[i] - vrcholy[i + 1];
                 } else if (vrcholy[i] + rychlost >= vrcholy[i+1])

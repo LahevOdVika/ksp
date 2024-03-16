@@ -2,10 +2,10 @@
 
 class Program
 {
-    private record Prednaska(int a, int b, char? c)
+    private record Prednaska(long a, long b, char? c)
     {
-        public int Zacatek = a;
-        public int Konec = b;
+        public long Zacatek = a;
+        public long Konec = b;
         public char? Fakulta = c;
     }
     
@@ -16,22 +16,22 @@ class Program
         
         string[] radek = sr.ReadLine()!.Split(' ');
 
-        int p = Convert.ToInt32(radek[0]);
-        int n = Convert.ToInt32(radek[1]);
+        long p = Convert.ToInt32(radek[0]);
+        long n = Convert.ToInt32(radek[1]);
 
         var povinne = new Prednaska[p];
         var nepovinne = new Prednaska[n+1];
 
-        int preskocene = 0;
+        long preskocene = 0;
         
         //Načítání vstupu
-        for (int i = 0; i < p; i++)
+        for (long i = 0; i < p; i++)
         {
             radek = sr.ReadLine()!.Split(' ');
             povinne[i] = new Prednaska(Convert.ToInt32(radek[0]), Convert.ToInt32(radek[1]), radek[2][0]);
         }
 
-        for (int i = 0; i < n; i++)
+        for (long i = 0; i < n; i++)
         {
             radek = sr.ReadLine()!.Split(' ');
             nepovinne[i] = new Prednaska(Convert.ToInt32(radek[0]), Convert.ToInt32(radek[1]), null);
@@ -39,7 +39,7 @@ class Program
 
         nepovinne[n] = new Prednaska(Int32.MaxValue, Int32.MaxValue, null);
         
-        for (int i = 0; i < p-1; i++)
+        for (long i = 0; i < p-1; i++)
         {
             var aktualni = povinne[i];
             var dalsi = povinne[i + 1];
@@ -50,17 +50,17 @@ class Program
                 Console.WriteLine("Číslo přednášky je {0}, začátek je {1} a konec je {2}", i, aktualni.Zacatek, aktualni.Konec);
                 Console.WriteLine("Číslo přednášky je {0}, začátek je {1} a konec je {2}", i+1, dalsi.Zacatek, dalsi.Konec);
                 
-                int rekord = Int32.MaxValue;
-                int a = 0;
+                long rekord = Int32.MaxValue;
+                long a = 0;
                 
                 while (nepovinne[a].Zacatek < aktualni.Konec)
                 {
                     a++;
                 }
 
-                int z = a - 1;
+                long z = a - 1;
 
-                int konecPrejezdu = aktualni.Konec + 40;
+                long konecPrejezdu = aktualni.Konec + 40;
 
                 while (true)
                 {

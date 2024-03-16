@@ -1,0 +1,15 @@
+C:\Users\Lahev\Desktop\ksp\36-4\Sankovani\Sankovani\bin\Debug\net7.0\Sankovani.exe
+C:\Users\Lahev\Desktop\ksp\36-4\Sankovani\Sankovani\bin\Debug\net7.0\Sankovani.deps.json
+C:\Users\Lahev\Desktop\ksp\36-4\Sankovani\Sankovani\bin\Debug\net7.0\Sankovani.runtimeconfig.json
+C:\Users\Lahev\Desktop\ksp\36-4\Sankovani\Sankovani\bin\Debug\net7.0\Sankovani.dll
+C:\Users\Lahev\Desktop\ksp\36-4\Sankovani\Sankovani\bin\Debug\net7.0\Sankovani.pdb
+C:\Users\Lahev\Desktop\ksp\36-4\Sankovani\Sankovani\obj\Debug\net7.0\Sankovani.csproj.AssemblyReference.cache
+C:\Users\Lahev\Desktop\ksp\36-4\Sankovani\Sankovani\obj\Debug\net7.0\Sankovani.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lahev\Desktop\ksp\36-4\Sankovani\Sankovani\obj\Debug\net7.0\Sankovani.AssemblyInfoInputs.cache
+C:\Users\Lahev\Desktop\ksp\36-4\Sankovani\Sankovani\obj\Debug\net7.0\Sankovani.AssemblyInfo.cs
+C:\Users\Lahev\Desktop\ksp\36-4\Sankovani\Sankovani\obj\Debug\net7.0\Sankovani.csproj.CoreCompileInputs.cache
+C:\Users\Lahev\Desktop\ksp\36-4\Sankovani\Sankovani\obj\Debug\net7.0\Sankovani.dll
+C:\Users\Lahev\Desktop\ksp\36-4\Sankovani\Sankovani\obj\Debug\net7.0\refint\Sankovani.dll
+C:\Users\Lahev\Desktop\ksp\36-4\Sankovani\Sankovani\obj\Debug\net7.0\Sankovani.pdb
+C:\Users\Lahev\Desktop\ksp\36-4\Sankovani\Sankovani\obj\Debug\net7.0\Sankovani.genruntimeconfig.cache
+C:\Users\Lahev\Desktop\ksp\36-4\Sankovani\Sankovani\obj\Debug\net7.0\ref\Sankovani.dll

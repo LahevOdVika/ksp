@@ -1,0 +1,15 @@
+C:\Users\Lahev\Desktop\ksp\36-4\snehulaci\snehulaci\bin\Debug\net7.0\snehulaci.exe
+C:\Users\Lahev\Desktop\ksp\36-4\snehulaci\snehulaci\bin\Debug\net7.0\snehulaci.deps.json
+C:\Users\Lahev\Desktop\ksp\36-4\snehulaci\snehulaci\bin\Debug\net7.0\snehulaci.runtimeconfig.json
+C:\Users\Lahev\Desktop\ksp\36-4\snehulaci\snehulaci\bin\Debug\net7.0\snehulaci.dll
+C:\Users\Lahev\Desktop\ksp\36-4\snehulaci\snehulaci\bin\Debug\net7.0\snehulaci.pdb
+C:\Users\Lahev\Desktop\ksp\36-4\snehulaci\snehulaci\obj\Debug\net7.0\snehulaci.csproj.AssemblyReference.cache
+C:\Users\Lahev\Desktop\ksp\36-4\snehulaci\snehulaci\obj\Debug\net7.0\snehulaci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lahev\Desktop\ksp\36-4\snehulaci\snehulaci\obj\Debug\net7.0\snehulaci.AssemblyInfoInputs.cache
+C:\Users\Lahev\Desktop\ksp\36-4\snehulaci\snehulaci\obj\Debug\net7.0\snehulaci.AssemblyInfo.cs
+C:\Users\Lahev\Desktop\ksp\36-4\snehulaci\snehulaci\obj\Debug\net7.0\snehulaci.csproj.CoreCompileInputs.cache
+C:\Users\Lahev\Desktop\ksp\36-4\snehulaci\snehulaci\obj\Debug\net7.0\snehulaci.dll
+C:\Users\Lahev\Desktop\ksp\36-4\snehulaci\snehulaci\obj\Debug\net7.0\refint\snehulaci.dll
+C:\Users\Lahev\Desktop\ksp\36-4\snehulaci\snehulaci\obj\Debug\net7.0\snehulaci.pdb
+C:\Users\Lahev\Desktop\ksp\36-4\snehulaci\snehulaci\obj\Debug\net7.0\snehulaci.genruntimeconfig.cache
+C:\Users\Lahev\Desktop\ksp\36-4\snehulaci\snehulaci\obj\Debug\net7.0\ref\snehulaci.dll
