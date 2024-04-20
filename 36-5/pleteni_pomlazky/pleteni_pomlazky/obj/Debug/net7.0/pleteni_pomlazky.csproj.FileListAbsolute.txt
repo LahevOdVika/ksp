@@ -1,0 +1,15 @@
+C:\Users\Lahev\RiderProjects\pleteni_pomlazky\pleteni_pomlazky\obj\Debug\net7.0\pleteni_pomlazky.csproj.AssemblyReference.cache
+C:\Users\Lahev\RiderProjects\pleteni_pomlazky\pleteni_pomlazky\obj\Debug\net7.0\pleteni_pomlazky.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lahev\RiderProjects\pleteni_pomlazky\pleteni_pomlazky\obj\Debug\net7.0\pleteni_pomlazky.AssemblyInfoInputs.cache
+C:\Users\Lahev\RiderProjects\pleteni_pomlazky\pleteni_pomlazky\obj\Debug\net7.0\pleteni_pomlazky.AssemblyInfo.cs
+C:\Users\Lahev\RiderProjects\pleteni_pomlazky\pleteni_pomlazky\obj\Debug\net7.0\pleteni_pomlazky.csproj.CoreCompileInputs.cache
+C:\Users\Lahev\RiderProjects\pleteni_pomlazky\pleteni_pomlazky\bin\Debug\net7.0\pleteni_pomlazky.exe
+C:\Users\Lahev\RiderProjects\pleteni_pomlazky\pleteni_pomlazky\bin\Debug\net7.0\pleteni_pomlazky.deps.json
+C:\Users\Lahev\RiderProjects\pleteni_pomlazky\pleteni_pomlazky\bin\Debug\net7.0\pleteni_pomlazky.runtimeconfig.json
+C:\Users\Lahev\RiderProjects\pleteni_pomlazky\pleteni_pomlazky\bin\Debug\net7.0\pleteni_pomlazky.dll
+C:\Users\Lahev\RiderProjects\pleteni_pomlazky\pleteni_pomlazky\bin\Debug\net7.0\pleteni_pomlazky.pdb
+C:\Users\Lahev\RiderProjects\pleteni_pomlazky\pleteni_pomlazky\obj\Debug\net7.0\pleteni_pomlazky.dll
+C:\Users\Lahev\RiderProjects\pleteni_pomlazky\pleteni_pomlazky\obj\Debug\net7.0\refint\pleteni_pomlazky.dll
+C:\Users\Lahev\RiderProjects\pleteni_pomlazky\pleteni_pomlazky\obj\Debug\net7.0\pleteni_pomlazky.pdb
+C:\Users\Lahev\RiderProjects\pleteni_pomlazky\pleteni_pomlazky\obj\Debug\net7.0\pleteni_pomlazky.genruntimeconfig.cache
+C:\Users\Lahev\RiderProjects\pleteni_pomlazky\pleteni_pomlazky\obj\Debug\net7.0\ref\pleteni_pomlazky.dll

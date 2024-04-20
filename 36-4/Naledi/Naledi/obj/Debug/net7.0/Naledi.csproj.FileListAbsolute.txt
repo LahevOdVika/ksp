@@ -1,0 +1,15 @@
+C:\Users\Lahev\Desktop\ksp\36-4\Naledi\Naledi\bin\Debug\net7.0\Naledi.exe
+C:\Users\Lahev\Desktop\ksp\36-4\Naledi\Naledi\bin\Debug\net7.0\Naledi.deps.json
+C:\Users\Lahev\Desktop\ksp\36-4\Naledi\Naledi\bin\Debug\net7.0\Naledi.runtimeconfig.json
+C:\Users\Lahev\Desktop\ksp\36-4\Naledi\Naledi\bin\Debug\net7.0\Naledi.dll
+C:\Users\Lahev\Desktop\ksp\36-4\Naledi\Naledi\bin\Debug\net7.0\Naledi.pdb
+C:\Users\Lahev\Desktop\ksp\36-4\Naledi\Naledi\obj\Debug\net7.0\Naledi.csproj.AssemblyReference.cache
+C:\Users\Lahev\Desktop\ksp\36-4\Naledi\Naledi\obj\Debug\net7.0\Naledi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lahev\Desktop\ksp\36-4\Naledi\Naledi\obj\Debug\net7.0\Naledi.AssemblyInfoInputs.cache
+C:\Users\Lahev\Desktop\ksp\36-4\Naledi\Naledi\obj\Debug\net7.0\Naledi.AssemblyInfo.cs
+C:\Users\Lahev\Desktop\ksp\36-4\Naledi\Naledi\obj\Debug\net7.0\Naledi.csproj.CoreCompileInputs.cache
+C:\Users\Lahev\Desktop\ksp\36-4\Naledi\Naledi\obj\Debug\net7.0\Naledi.dll
+C:\Users\Lahev\Desktop\ksp\36-4\Naledi\Naledi\obj\Debug\net7.0\refint\Naledi.dll
+C:\Users\Lahev\Desktop\ksp\36-4\Naledi\Naledi\obj\Debug\net7.0\Naledi.pdb
+C:\Users\Lahev\Desktop\ksp\36-4\Naledi\Naledi\obj\Debug\net7.0\Naledi.genruntimeconfig.cache
+C:\Users\Lahev\Desktop\ksp\36-4\Naledi\Naledi\obj\Debug\net7.0\ref\Naledi.dll

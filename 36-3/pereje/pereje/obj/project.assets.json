@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lahev\\Desktop\\ksp\\29-1\\pereje\\pereje\\pereje.csproj",
+      "projectUniqueName": "C:\\Users\\Lahev\\Desktop\\ksp\\36-3\\pereje\\pereje\\pereje.csproj",
       "projectName": "pereje",
-      "projectPath": "C:\\Users\\Lahev\\Desktop\\ksp\\29-1\\pereje\\pereje\\pereje.csproj",
+      "projectPath": "C:\\Users\\Lahev\\Desktop\\ksp\\36-3\\pereje\\pereje\\pereje.csproj",
       "packagesPath": "C:\\Users\\Lahev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lahev\\Desktop\\ksp\\29-1\\pereje\\pereje\\obj\\",
+      "outputPath": "C:\\Users\\Lahev\\Desktop\\ksp\\36-3\\pereje\\pereje\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lahev\\AppData\\Roaming\\NuGet\\NuGet.Config"
