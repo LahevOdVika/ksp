@@ -1,0 +1,15 @@
+C:\Users\Lahev\Desktop\ksp\36-5\alergie\alergie\bin\Debug\net7.0\alergie.exe
+C:\Users\Lahev\Desktop\ksp\36-5\alergie\alergie\bin\Debug\net7.0\alergie.deps.json
+C:\Users\Lahev\Desktop\ksp\36-5\alergie\alergie\bin\Debug\net7.0\alergie.runtimeconfig.json
+C:\Users\Lahev\Desktop\ksp\36-5\alergie\alergie\bin\Debug\net7.0\alergie.dll
+C:\Users\Lahev\Desktop\ksp\36-5\alergie\alergie\bin\Debug\net7.0\alergie.pdb
+C:\Users\Lahev\Desktop\ksp\36-5\alergie\alergie\obj\Debug\net7.0\alergie.csproj.AssemblyReference.cache
+C:\Users\Lahev\Desktop\ksp\36-5\alergie\alergie\obj\Debug\net7.0\alergie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lahev\Desktop\ksp\36-5\alergie\alergie\obj\Debug\net7.0\alergie.AssemblyInfoInputs.cache
+C:\Users\Lahev\Desktop\ksp\36-5\alergie\alergie\obj\Debug\net7.0\alergie.AssemblyInfo.cs
+C:\Users\Lahev\Desktop\ksp\36-5\alergie\alergie\obj\Debug\net7.0\alergie.csproj.CoreCompileInputs.cache
+C:\Users\Lahev\Desktop\ksp\36-5\alergie\alergie\obj\Debug\net7.0\alergie.dll
+C:\Users\Lahev\Desktop\ksp\36-5\alergie\alergie\obj\Debug\net7.0\refint\alergie.dll
+C:\Users\Lahev\Desktop\ksp\36-5\alergie\alergie\obj\Debug\net7.0\alergie.pdb
+C:\Users\Lahev\Desktop\ksp\36-5\alergie\alergie\obj\Debug\net7.0\alergie.genruntimeconfig.cache
+C:\Users\Lahev\Desktop\ksp\36-5\alergie\alergie\obj\Debug\net7.0\ref\alergie.dll
